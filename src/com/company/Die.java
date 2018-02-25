@@ -21,6 +21,6 @@ public class Die {
     }
 
     public void printValue(){
-        System.out.println(value);
+        System.out.print(value + "  ");
     }
 }
